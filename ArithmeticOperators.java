@@ -13,6 +13,7 @@ public class ArithmeticOperators{
 		System.out.println("The (/=) result of compound operator is: " + num);
 		
 		int a = 10;
+		
 		int b = 5; 
 		int c = 2;
 		
